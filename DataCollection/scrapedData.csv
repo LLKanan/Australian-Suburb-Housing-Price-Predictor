@@ -1,0 +1,301 @@
+,Address,Price,Sale Date,Type,Bedrooms,Bathrooms,Parking,Rent,Rent date,Agent
+0,8/79 Tramontane Approach,"$500,000",Jan 2024,Unit,3,2,2,,,
+1,4 Candlestick Brace,"$730,000",Jan 2024,,,,,,,
+2,17 SYNANDRA Way,"$463,000",Dec 2023,,,,,$320pw,Dec 2019,
+3,32 Eolian Loop,"$592,500",Dec 2023,House,3,2,2,,,
+4,38 Kennedia Entrance,"$487,500",Oct 2023,House,3,2,,,,
+5,18 Dampiera Street,"$368,000",Oct 2023,House,2,1,1,,,
+6,7 OLEARIA Alley,"$460,000",Oct 2023,House,3,2,2,$330pw,May 2020,
+7,5 PLATINUM Road,"$540,000",Oct 2023,House,4,2,,,,
+8,12 Daviesia Corner,"$680,000",Oct 2023,,,,,,,
+9,24 Eolian Loop,"$583,000",Sep 2023,,,,,,,
+10,31 Montana Crescent,"$455,000",Aug 2023,House,3,1,2,,,
+11,52 Dampiera Street,"$380,000",Aug 2023,House,2,1,1,$340pw,Dec 2021,
+12,51 Montana Crescent,"$440,000",Aug 2023,House,3,2,2,$350pw,Sep 2016,Annique Morley
+13,22 Arneis Avenue,"$472,000",Aug 2023,House,3,2,2,$264pw,May 2018,
+14,19 TENELLA Road,"$645,000",Aug 2023,,,,,,,
+15,4 Drosera Parkway,"$585,000",Jul 2023,House,4,2,2,,,Ana Borcherdt
+16,49 FEATHERFLOWER Avenue,"$430,000",Jul 2023,House,3,2,2,,,Surender Kumar
+17,18 Firewood Way,"$580,000",Jun 2023,House,4,2,2,,,Simar Singh
+18,127 CRANLEIGH Street,"$455,000",Jun 2023,House,3,2,2,$410pw,Mar 2022,Cristian Cortes
+19,39 Arneis Avenue,"$410,000",May 2023,,,,,,,Andy Zeng
+20,13 ECHIDNA Link,"$665,000",May 2023,House,4,2,5,$450pw,Dec 2017,Ana Borcherdt
+21,3 Litoria Pass,"$750,000",May 2023,House,4,2,2,,,Ana Borcherdt
+22,8 Plumosa Crescent,"$435,000",Apr 2023,House,3,2,2,$390pw,Dec 2021,Elizabeth Good
+23,1 Olivina Parkway,"$475,000",Apr 2023,House,3,2,2,,,Ana Borcherdt
+24,2 Drosera Parkway,"$650,000",Apr 2023,House,3,2,4,,,Ana Borcherdt
+25,18 Mimica Street,"$415,000",Apr 2023,House,3,2,,,,Ana Borcherdt
+26,12 Drosera Parkway,"$537,500",Mar 2023,House,4,2,2,,,Suzanne Brown
+27,8 Kiev Place,"$495,000",Mar 2023,,,,,,,David Snell
+28,88 AURUM Parade,"$430,000",Mar 2023,House,3,2,2,$330pw,Oct 2018,
+29,156 Arthur Street,"$390,000",Mar 2023,House,3,2,2,$256pw,Nov 2017,Elizabeth Good
+30,5/17 Aurum Parade,"$358,000",Feb 2023,House,3,2,2,,,Richard Lowenhoff
+31,93 Cranleigh Street,"$391,000",Feb 2023,House,3,2,,$400pw,Mar 2021,
+32,10/5 Isoodon Street,"$385,000",Dec 2022,Unit,3,2,2,$390pw,Jan 2016,Suzanne Brown
+33,12 GLOSS Street,"$450,000",Dec 2022,House,4,2,2,$320pw,Apr 2019,Richard Lowenhoff
+34,121 Cranleigh Street,"$388,000",Dec 2022,House,3,2,2,$300pw,Oct 2018,Carla Yazmadjian
+35,4/5 Isoodon Street,"$432,000",Nov 2022,Townhouse,4,2,2,$350pw,Nov 2019,Marion Hughes
+36,23 St Leonards Boulevard,"$710,000",Nov 2022,House,4,2,4,$550pw,Jan 2018,Elizabeth Good
+37,34 Radiant Loop,"$500,000",Oct 2022,House,3,2,2,,,Ana Borcherdt
+38,14 Plumosa Crescent,"$390,000",Oct 2022,House,3,2,,$420pw,Oct 2015,
+39,9 Kabiana Way,"$472,000",Sep 2022,,,,,$370pw,Sep 2020,Leanne Glossop
+40,55 Tramontane Approach,"$522,000",Sep 2022,House,3,2,2,,,
+41,1 Wunanga Road,"$516,000",Sep 2022,House,4,2,2,,,Ana Borcherdt
+42,44 PLUMOSA Crescent,"$495,000",Sep 2022,House,4,2,2,$420pw,Feb 2016,Raman Walia
+43,13 TEMPEST Corner,"$425,000",Aug 2022,,,,,$320pw,Nov 2019,Elizabeth Good
+44,24 TRAMONTANE Approach,"$480,000",Jul 2022,,,,,,,Nigel Ross
+45,18 Chinook Drive,"$510,000",Jul 2022,House,4,2,2,$460pw,Jul 2015,Heidi McAtee
+46,11 MONITOR Way,"$621,000",Jun 2022,House,4,2,2,$450pw,Apr 2019,Zarina Brodie
+47,19 Saligna Way,"$565,000",May 2022,House,4,2,2,$400pw,Aug 2017,Ana Borcherdt
+48,22 Chinook Drive,"$470,000",May 2022,House,3,2,2,$380pw,Apr 2021,Elizabeth Good
+49,86 Aurum Parade,"$428,000",May 2022,House,3,2,2,,,Elizabeth Good
+50,14 Sparkle Vista,"$475,000",May 2022,House,3,2,2,,,Elizabeth Good
+51,17 Litoria Pass,"$690,000",May 2022,,,,,,,Vish Choudhary
+52,12 Honey Lane,"$545,000",May 2022,House,4,2,3,,,Ana Borcherdt
+53,1 Kiev Place,"$405,000",May 2022,House,3,2,2,$400pw,Jan 2021,Jai Bernard
+54,11 TRAMONTANE Approach,"$385,000",May 2022,House,3,2,2,$400pw,Feb 2021,Ivan Valkoff
+55,67 Tramontane Approach,"$430,000",Apr 2022,House,3,1,,,,Caroline Turner
+56,10/15 Candlestick Brace,"$300,000",Apr 2022,Unit,2,2,1,$320pw,Apr 2019,Elizabeth Good
+57,264 Arthur Street,"$367,000",Apr 2022,House,3,2,2,$330pw,Apr 2017,Raman Walia
+58,15 Arneis Avenue,"$486,500",Apr 2022,House,3,2,2,$320pw,Jan 2018,Kim Turner
+59,5/19 Candlestick Brace,"$260,000",Mar 2022,Apartment,2,1,1,,,Elizabeth Good
+60,54 Kennedia Entrance,"$387,000",Mar 2022,House,3,2,2,$400pw,Feb 2021,Team Sammut
+61,40 Grandis Road,"$529,000",Mar 2022,House,3,2,2,,,Marion Hughes
+62,14 Sunlit Avenue,"$430,000",Mar 2022,House,4,2,2,$375pw,Sep 2019,Alistair Caffel
+63,35 Tempranillo Drive,"$445,000",Mar 2022,House,3,,,,,Nada Banovic-Edwards
+64,179 Cranleigh Street,"$385,000",Mar 2022,House,3,2,2,$450pw,Mar 2022,Elizabeth Good
+65,11/5 Isoodon Street,"$373,000",Mar 2022,Townhouse,3,2,2,,,Simar Singh
+66,18 Kabiana Way,"$389,000",Mar 2022,House,3,2,2,$310pw,Oct 2018,Kip Marcar
+67,50 Dampiera Street,"$307,000",Mar 2022,House,2,1,1,$290pw,May 2019,Sandy Pralica
+68,18 Sirocco Promenade,"$353,000",Feb 2022,House,3,2,2,,,Malcolm Tingey
+69,14 Litoria Pass,"$603,000",Feb 2022,House,4,2,2,,,Shane Penny
+70,7 Olivina Parkway,"$405,000",Feb 2022,House,3,2,2,$340pw,Mar 2018,Mathew Durham
+71,59 St Leonards Boulevard,"$527,000",Feb 2022,House,4,,,$450pw,Mar 2021,Raman Walia
+72,178 Isoodon Street,"$1,300,000",Jan 2022,House,5,2,8,,,Ana Borcherdt
+73,10 Gloss Street,"$455,000",Jan 2022,House,4,2,2,$380pw,Dec 2018,Elizabeth Good
+74,26 Eolian Loop,"$515,000",Jan 2022,House,4,2,2,,,Ana Borcherdt
+75,4 Palermo Road,"$550,000",Jan 2022,House,4,2,4,,,Ana Borcherdt
+76,14 HONEY LANE,"$507,500",Jan 2022,House,3,1,2,,,Chandra S
+77,42 Grandis Road,"$505,000",Jan 2022,House,4,2,2,$450pw,Apr 2019,Rod McDougall
+78,11 Topaz Road,"$530,000",Jan 2022,House,4,2,5,,,Ana Borcherdt
+79,14 Firewood Way,"$550,000",Dec 2021,House,4,2,2,$480pw,Sep 2016,Ana Borcherdt
+80,16 Litoria Pass,"$480,000",Dec 2021,House,4,2,2,$425pw,Dec 2018,Ana Borcherdt
+81,20 Mimica Street,"$355,000",Dec 2021,House,3,2,2,,,Ana Borcherdt
+82,12 Kabiana Way,"$390,000",Nov 2021,,,,,$350pw,Jan 2018,Mark Snelson
+83,8 Drosera Parkway,"$530,000",Nov 2021,House,4,2,4,$430pw,May 2016,Ana Borcherdt
+84,152 CRANLEIGH Street,"$780,000",Nov 2021,House,2,1,2,$600pw,Nov 2021,Sayed Aziz
+85,23 Mimica Street,"$380,000",Nov 2021,House,3,2,2,$360pw,Feb 2019,Jassi Malik
+86,15 Noir Way,"$475,000",Nov 2021,House,4,2,2,$400pw,Mar 2018,Ana Borcherdt
+87,60 Kennedia Entrance,"$477,500",Nov 2021,House,4,2,4,,,Amber Sidon
+88,6 Rostratus Link,"$545,000",Oct 2021,House,4,2,2,$450pw,Sep 2019,Elizabeth Good
+89,17 Bovale Road,"$420,000",Oct 2021,House,3,2,2,$330pw,Oct 2018,Kristian Novatsis
+90,1 Olearia Alley,"$442,500",Oct 2021,House,3,2,,$380pw,Jan 2018,Elizabeth Good
+91,6 Litoria Pass,"$510,000",Oct 2021,House,4,2,2,$480pw,Apr 2012,Denise Wellstead
+92,43 FEATHERFLOWER Avenue,"$399,000",Sep 2021,House,3,2,2,$340pw,Nov 2019,Brendan Eva
+93,35 Montana Crescent,"$335,000",Sep 2021,House,3,2,1,$370pw,Oct 2015,Elizabeth Good
+94,36 FEATHERFLOWER Avenue,"$515,000",Sep 2021,House,4,2,2,,,Mark Snelson
+95,16 Caraway Approach,"$385,000",Sep 2021,House,3,2,2,$380pw,May 2021,Kip Marcar
+96,30 Chinook Drive,"$507,000",Sep 2021,House,4,2,2,,,Elizabeth Good
+97,8 ATTENUATA Way,"$480,000",Sep 2021,,,,,$380pw,Sep 2019,Rod McDougall
+98,3/4 Montana Crescent,"$430,000",Aug 2021,Townhouse,3,2,2,,,Amra Vojnikovic
+99,1 Floribunda Gate,"$585,000",Aug 2021,House,4,2,2,,,
+100,14 Sirocco Promenade,"$470,000",Jul 2021,House,4,1,,,,Elizabeth Good
+101,30 PLUMOSA Crescent,"$573,000",Jul 2021,,,,,,,
+102,31 Elderberry Drive,"$530,000",Jul 2021,House,4,2,2,,,Chris Wilkinson
+103,22 Sparkle Vista,"$570,000",Jun 2021,House,4,2,2,,,Zarina Brodie
+104,9 ATTENUATA Way,"$540,000",Jun 2021,House,4,2,2,,,Zarina Brodie
+105,18 Watercress Gardens,"$440,000",Jun 2021,House,3,2,2,,,Ana Borcherdt
+106,150 Arthur Street,"$335,000",Jun 2021,House,3,2,2,$241pw,Jul 2018,Davide Palermo
+107,17/5 Isoodon Street,"$337,000",Jun 2021,Unit,3,2,2,$273pw,Jun 2015,Simar Singh
+108,8 Dampiera Street,"$280,000",Jun 2021,House,2,1,1,$270pw,Jun 2018,Zarina Brodie
+109,171 Cranleigh Street,"$380,000",May 2021,House,3,2,2,,,Elizabeth Good
+110,7 ZEPHYR Street,"$440,000",May 2021,House,3,1,,,,Cheng Liu
+111,17 Lunata Street,"$335,000",Apr 2021,House,3,2,2,$430pw,Apr 2016,Elizabeth Good
+112,3 Calendia Way,"$452,000",Mar 2021,House,4,2,2,$465pw,May 2016,Joe Perrozzi
+113,42 Tramontane Approach,"$420,000",Mar 2021,House,3,1,,,,Jai Bernard
+114,14 TEMPEST Corner,"$355,000",Mar 2021,House,3,2,2,,,Agent in a Box
+115,1 FEATHERFLOWER Avenue,"$573,000",Mar 2021,House,4,2,2,,,Ana Borcherdt
+116,8 Preissina Way,"$542,500",Feb 2021,House,4,2,2,,,Elizabeth Good
+117,9 MACRANDRA Way,"$445,000",Feb 2021,House,4,2,2,,,Elizabeth Good
+118,45 Tramontane Approach,"$435,000",Feb 2021,House,4,2,,,,Elizabeth Good
+119,19 Macrandra Way,"$440,000",Feb 2021,House,5,2,2,$400pw,Nov 2020,Ana Borcherdt
+120,4 TENELLA Road,"$426,000",Jan 2021,House,3,2,2,$370pw,Jun 2019,Zarina Brodie
+121,5 Monica Crescent,"$450,000",Jan 2021,House,4,3,4,$385pw,May 2018,Philip Calpakdjian
+122,25/5 Isoodon Street,"$315,000",Jan 2021,House,3,2,2,$395pw,Jan 2021,Elizabeth Good
+123,3 TENELLA Road,"$537,000",Dec 2020,,,,,$450pw,May 2019,Guru Gill
+124,49 Monica Crescent,"$355,000",Nov 2020,House,3,2,2,,,
+125,15 ECHIDNA Link,"$538,000",Sep 2020,,,,,,,
+126,9 Cobalt Road,"$560,000",Sep 2020,House,4,3,2,,,
+127,18 TRAMONTANE Approach,"$430,000",Aug 2020,,,,,,,
+128,9 Lunata Street,"$300,000",Aug 2020,House,3,2,2,,,
+129,17 Candlestick Brace,"$245,000",Aug 2020,House,4,2,,,,Annique Morley
+130,16 Gloxinia Glade,"$390,000",Jul 2020,House,3,2,2,,,
+131,4 Lunata Street,"$305,000",Jul 2020,House,3,2,2,$300pw,Jun 2017,
+132,25 Olearia Alley,"$322,000",Jun 2020,House,3,1,,,,
+133,32 Tempest Corner,"$462,000",May 2020,House,4,2,,,,
+134,32 Tempranillo Drive,"$360,000",Mar 2020,House,3,2,2,$350pw,Nov 2017,
+135,15 WUNANGA Road,"$350,000",Mar 2020,,,,,,,
+136,8 Cinnamon Way,"$440,000",Mar 2020,House,4,2,2,,,
+137,107 Coast Road,"$405,000",Mar 2020,House,3,1,3,$380pw,Jan 2015,
+138,18 Daviesia Corner,"$395,000",Mar 2020,House,4,2,2,$400pw,Dec 2017,
+139,49 St Leonards Boulevard,"$411,000",Feb 2020,House,3,,,,,
+140,10 WUNANGA Road,"$530,000",Jan 2020,,,,,,,
+141,6 Dampiera Street,"$225,000",Oct 2019,House,2,1,1,,,
+142,7 Cobalt Road,"$470,000",Sep 2019,House,3,2,2,,,Link Residential Group - OSBORNE PARK
+143,8/15 Candlestick Brace,"$299,000",Sep 2019,Apartment,2,2,2,,,
+144,16 Saligna Way,"$575,000",Sep 2019,House,4,2,2,,,Ray White - Uxcel
+145,6 FEATHERFLOWER Avenue,"$465,000",Jul 2019,House,3,2,2,,,Professionals Wellstead Team - Bassendean
+146,1 Turquoise Chase,"$450,000",Jul 2019,House,3,2,2,,,Real Estate Express with Andy Brown - Mount Pleasa
+147,9 Gilding Lane,"$260,000",Jul 2019,House,3,2,2,,,Progress Real Estate (WA) - STIRLING
+148,18 Turquoise Chase,"$610,000",Jun 2019,House,4,2,2,,,Aquila Realty - Aveley
+149,12 Cinnamon Road,"$455,000",Jun 2019,House,4,2,2,,,Link Residential Group - OSBORNE PARK
+150,23 Calendia Way,"$450,000",Jun 2019,House,4,2,2,,,HKY Real Estate - Head Office
+151,7 TENELLA Road,"$430,000",Jun 2019,House,4,2,2,,,360 Real Estate - Ellenbrook
+152,38A Daviesia Corner,"$325,000",May 2019,House,3,2,2,,,HKY Real Estate - Head Office
+153,6 Kiev Place,"$340,000",May 2019,House,3,2,2,$345pw,Aug 2018,Ray White - Uxcel
+154,6 ATTENUATA Way,"$452,500",Apr 2019,House,4,2,2,,,
+155,18 ZEPHYR Street,"$365,000",Apr 2019,House,3,2,2,$370pw,May 2018,HKY Real Estate - Head Office
+156,22 Preissina Way,"$410,000",Mar 2019,House,4,2,2,,,HKY Real Estate - Head Office
+157,10 Kabiana Way,"$315,000",Feb 2019,House,3,2,2,$350pw,Nov 2015,
+158,7 Turquoise Chase,"$505,000",Feb 2019,House,4,2,2,,,
+159,6 Platinum Road,"$405,000",Jan 2019,House,4,2,2,,,Purplebricks - Western Australia
+160,3 Calytrix Pass,"$665,000",Jan 2019,House,4,2,2,,,
+161,3/25 Candlestick Brace,"$208,000",Dec 2018,House,2,1,1,,,LJ Hooker - Midland
+162,7 Calendia Way,"$465,000",Oct 2018,House,5,2,2,,,Professionals Granger Clark Real Estate - Ballajur
+163,35 St Leonards Boulevard,"$615,000",Sep 2018,House,4,2,4,,,Ray White - Uxcel
+164,31 Eolian Loop,"$375,000",Sep 2018,House,3,2,2,,,
+165,48 Dampiera Street,"$259,200",Sep 2018,House,2,1,,$285pw,Jan 2019,Sara Muir Real Estate - Oakford
+166,8 Rostratus Link,"$255,000",Sep 2018,,,,,,,The Agency
+167,18 Plumosa Crescent,"$317,000",Sep 2018,House,3,2,2,$315pw,Aug 2018,Ray White - Ellenbrook
+168,7 Teliqua Corner,"$470,000",Aug 2018,House,4,2,2,$440pw,Jun 2017,HKY Real Estate - Head Office
+169,5 Lunata Street,"$325,000",Jul 2018,House,3,2,2,$350pw,Jun 2017,LJ Hooker - Midland
+170,14 Turquoise Chase,"$600,000",Jul 2018,House,4,2,2,,,Link Residential Group - OSBORNE PARK
+171,4 Saligna Way,"$456,000",Jul 2018,House,4,2,2,,,Professionals Granger Clark Real Estate - Ballajur
+172,28 Sirocco Promenade,"$385,000",Jul 2018,House,3,2,2,,,HKY Real Estate - Head Office
+173,6 Tempest Corner,"$350,000",Jul 2018,House,3,2,2,$365pw,Jan 2017,HKY Real Estate - Head Office
+174,25 St Leonards Boulevard,"$530,000",Jun 2018,House,4,2,2,$480pw,Aug 2018,Peard Real Estate Swan Valley - ELLENBROOK
+175,16 Drosera Parkway,"$420,000",Jun 2018,House,4,2,2,$450pw,Dec 2017,Ray White Leading Edge - Clarkson
+176,9 TURQUOISE Chase,"$600,000",May 2018,House,4,3,2,,,
+177,19 Calendia Way,"$482,000",May 2018,House,4,2,4,,,5 Star Realty Professionals - MIDLAND
+178,4/4 Montana Crescent,"$315,000",Apr 2018,House,3,2,2,$420pw,Feb 2016,Sammut Rosh & Associates - BASSENDEAN
+179,22 DAMPIERA Street,"$265,000",Apr 2018,House,2,1,1,,,Bazzo Real Estate - Ballajura
+180,2 FEATHERFLOWER Avenue,"$480,000",Apr 2018,House,4,2,2,$475pw,Aug 2015,HKY Real Estate - Head Office
+181,15 Lunata Street,"$306,000",Apr 2018,House,3,2,2,$380pw,Oct 2021,Bazzo Real Estate - Ballajura
+182,8 SYNANDRA Way,"$460,000",Apr 2018,,,,,,,HKY Real Estate - Head Office
+183,4 Echidna Link,"$512,500",Apr 2018,House,4,2,2,,,Peard Real Estate Swan Valley - ELLENBROOK
+184,2/25 Candlestick Brace,"$250,000",Apr 2018,House,2,1,1,,,LJ Hooker - Midland
+185,5 ZEPHYR Street,"$410,000",Mar 2018,House,3,2,2,,,HKY Real Estate - Head Office
+186,55 Sam Rosa Place,"$935,000",Mar 2018,House,4,2,2,,,Professionals Michael Johnson and Co - Mt Lawley
+187,22 Blundell Street,"$309,000",Feb 2018,House,4,,,,,
+188,3 TURQUOISE Chase,"$573,000",Feb 2018,House,4,2,2,,,
+189,45 Montana Crescent,"$341,000",Dec 2017,House,3,2,2,,,The Agency WA - South Perth Branch
+190,41 Tramontane Approah,"$440,000",Nov 2017,House,4,2,2,,,HKY Real Estate - Head Office
+191,22 Daviesia Corner,"$490,000",Nov 2017,House,4,2,2,$430pw,Nov 2017,Thought Leaders Real Estate
+192,8 Eolian Loop,"$441,000",Nov 2017,,,,,,,Purplebricks - Western Australia
+193,40 Kennedia Entrance,"$349,000",Nov 2017,House,3,2,2,,,Sell Lease Property - WOOLLOONGABBA
+194,2 SIROCCO Promenade,"$420,000",Nov 2017,,,,,$400pw,May 2017,HKY Real Estate - Head Office
+195,26 Tempranillo Drive,"$425,000",Oct 2017,House,3,2,2,$430pw,Jun 2017,Oradin Property - MAIDA VALE
+196,17 Noir Way,"$225,000",Oct 2017,House,4,2,2,$420pw,Aug 2020,
+197,19 Persan Way,"$225,000",Sep 2017,House,3,2,2,,,
+198,10 CINNAMON Road,"$570,000",Sep 2017,House,4,2,2,,,
+199,17 Arneis Avenue,"$499,950",Sep 2017,,,,,$320pw,Feb 2018,
+200,15 Olearia Alley,"$360,000",Sep 2017,House,3,2,2,,,HKY Real Estate - Head Office
+201,21 Noir Way,"$225,000",Sep 2017,House,4,2,2,$390pw,Jul 2018,
+202,20 Litoria Pass,"$500,000",Sep 2017,,,,,,,Sell Lease Property
+203,2 Persan Way,"$212,000",Aug 2017,House,4,2,2,$415pw,Apr 2019,
+204,8 Alabaster Road,"$225,000",Aug 2017,House,3,2,2,$360pw,Jul 2018,
+205,75 Tramontane Approach,"$394,000",Aug 2017,House,3,2,2,,,5 Star Realty Professionals - MIDLAND
+206,11 SYNANDRA Way,"$324,000",Jul 2017,House,3,2,2,$330pw,Jan 2017,Harcourts - Integrity
+207,5 Kabiana Way,"$450,000",Jul 2017,,,,,,,Oradin Property - MAIDA VALE
+208,42 Kennedia Entrance,"$330,000",Jul 2017,House,3,2,2,,,Bazzo Real Estate - Ballajura
+209,12 PLUMOSA Crescent,"$355,000",Jul 2017,House,3,2,2,,,LJ Hooker - Midland
+210,44 Repton Street,"$900,000",Jul 2017,House,3,1,2,,,
+211,4/19 Candlestick Brace,"$285,000",Jul 2017,Apartment,2,1,1,$305pw,Jun 2021,
+212,12 Candlestick Brace,"$495,000",Jul 2017,House,4,2,2,,,Ray White - Ellenbrook
+213,16 Firewood Way,"$512,000",Jul 2017,House,4,2,2,$450pw,Oct 2015,Polaris Realty - Beechboro
+214,21 Gilding Lane,"$207,000",Jul 2017,House,3,2,2,$350pw,Jan 2019,
+215,19 Noir Way,"$240,000",May 2017,House,4,2,2,$390pw,Mar 2020,
+216,24 Vivid Chase,"$488,000",May 2017,House,4,2,2,,,HKY Real Estate - Head Office
+217,25 Kennedia Ent,"$482,000",May 2017,House,4,2,2,,,Ray White - Ellenbrook
+218,25 Kennedia Entrance,"$482,000",May 2017,House,4,,,,,
+219,6 Saligna Way,"$502,500",Apr 2017,House,4,2,2,,,Sammut Rosh & Associates - BASSENDEAN
+220,12 Calendia Way,"$479,000",Apr 2017,House,4,2,2,$520pw,Oct 2014,DIY Sales and Leasing - ARMADALE
+221,13 TURQUOISE Chase,"$570,000",Apr 2017,House,4,2,2,,,
+222,29 Montana Crescent,"$325,000",Apr 2017,House,3,2,2,$440pw,May 2016,Sell Lease Property
+223,15 Sam Rosa Place,"$680,000",Apr 2017,House,4,2,1,$300pw,Apr 2019,Professionals Michael Johnson and Co - Mt Lawley
+224,15 MACRANDRA Way,"$500,000",Apr 2017,House,4,2,2,,,Century 21 Team Brockhurst - Thornlie
+225,155 Arthur Street,"$2,550,000",Mar 2017,House,3,1,2,,,
+226,20 TURQUOISE Chase,"$699,000",Mar 2017,House,4,2,2,,,
+227,237 Arthur Street,"$2,788,000",Mar 2017,House,3,,,$350pw,May 2008,Mark Hay - East Perth
+228,2 Cinnamon Road,"$540,000",Feb 2017,House,4,2,2,,,Ray White - Ellenbrook
+229,11 Watercress Gardens,"$458,000",Feb 2017,House,4,2,2,,,Peard Real Estate Swan Valley - ELLENBROOK
+230,5 Noir Way,"$240,000",Feb 2017,House,4,2,2,$485pw,Jan 2022,
+231,26 Persan Way,"$240,000",Feb 2017,House,4,2,2,$475pw,Jul 2021,
+232,17 Rosenburg Gardens,"$515,000",Feb 2017,House,4,2,2,,,Professionals Stirling Clark - Forrestfield
+233,25 Bovale Road,"$240,000",Feb 2017,House,4,2,2,$450pw,Apr 2021,
+234,25 Eolian Loop,"$475,000",Feb 2017,House,4,2,2,,,Brookwood Realty-Midland
+235,14 Cinnamon Road,"$585,000",Feb 2017,House,3,2,,,,Redink Homes - Metro
+236,51 Tramontane Approach,"$416,000",Feb 2017,House,3,2,2,$410pw,Dec 2015,Sell Lease Property
+237,2 PLUMOSA Crescent,"$378,000",Dec 2016,,,,,,,Ray White - Whiteman & Associates
+238,9 Rosenburg Gardens,"$515,000",Dec 2016,House,4,2,2,,,First National - Ellenbrook
+239,17 MIMICA Street,"$345,000",Dec 2016,House,3,2,2,,,Realmark - Whitfords
+240,148 Arthur Street,"$440,500",Nov 2016,House,3,2,2,$256pw,Nov 2017,
+241,27 St Leonards Boulevard,"$545,000",26 Nov 2016(Auction),House,4,2,4,,,Harcourts - Integrity
+242,17 Tempest Cnr,"$360,000",Nov 2016,House,3,2,2,,,Century 21 - Active Realty Ellenbrook
+243,15 Kabiana Way,"$430,000",Nov 2016,,,,,,,
+244,1 ROSTRATUS Link,"$480,000",Nov 2016,House,3,2,2,$380pw,Jun 2018,Ray White - Accord
+245,22 Calendia Way,"$510,000",Nov 2016,House,4,2,2,,,Ray White Leading Edge - Clarkson
+246,4 CINNAMON Road,"$500,000",Oct 2016,House,4,2,2,,,
+247,46 Azure Way,"$185,000",Oct 2016,House,3,2,2,$335pw,Aug 2018,
+248,181 Cranleigh Street,"$410,000",Oct 2016,House,3,2,2,$350pw,May 2019,
+249,14 Arneis Avenue,"$442,600",Oct 2016,House,3,2,2,$264pw,Oct 2020,
+250,L60 Arthur Street,"$475,000",Oct 2016,,,,,,,HERITAGE REALTY - GOSNELLS
+251,142 Arthur Street,"$436,100",Sep 2016,House,3,2,2,$260pw,Sep 2017,
+252,17 TEMPEST Corner,"$360,000",Sep 2016,,,,,$430pw,Nov 2021,
+253,16 PLATINUM Road,"$257,000",Sep 2016,,,,,,,
+254,5 WUNANGA Road,"$420,000",Sep 2016,House,3,2,2,,,Platinum Realty Group - Ocean Reef
+255,17 Eolian Loop,"$460,000",Sep 2016,House,4,2,2,,,HKY Real Estate - Head Office
+256,14 PLATINUM Road,"$257,000",Aug 2016,,,,,,,
+257,38 St Leonards Boulevard,"$510,000",Aug 2016,House,4,2,2,,,Ray White - Bullsbrook
+258,26 Grandis Road,"$460,000",Aug 2016,House,4,2,2,$450pw,Oct 2015,Century 21 Jones Property Group - Carlisle
+259,28 Blundell Street,"$314,000",Aug 2016,House,3,,,,,
+260,4 Kabiana Way,"$399,000",Aug 2016,House,3,2,2,,,Key Performance Realty - Perth
+261,18 Topaz Road,"$185,000",Jul 2016,,,,,$330pw,May 2018,
+262,3/11 AURUM Parade,"$423,000",Jul 2016,Unit,3,2,2,$345pw,Aug 2016,
+263,33 Bovale Road,"$245,000",Jul 2016,House,3,2,2,$300pw,Feb 2018,
+264,18/4 Montana Crescent,"$370,000",Jun 2016,,,,,$320pw,Nov 2019,Mark Hay - East Perth
+265,5 Rosenburg Gardens,"$590,000",Jun 2016,House,4,2,2,,,LJ Hooker Atwell - Armadale
+266,23 BOVALE Road,"$240,000",Jun 2016,House,3,2,2,,,
+267,11 Mimica Street,"$381,000",May 2016,House,3,2,2,,,HKY Real Estate - Head Office
+268,24 Grandis Road,"$457,000",May 2016,House,3,2,2,$420pw,May 2016,Swan Valley Realty - Swan Valley
+269,117 Coast Road,"$3,001,670",May 2016,House,4,,,,,
+270,61 Tramontane Approach,"$513,000",May 2016,House,4,2,2,,,HKY Real Estate - Head Office
+271,10 Chinook Drive,"$475,000",May 2016,House,4,2,2,,,HKY Real Estate - Head Office
+272,21 Saligna Way,"$532,000",Apr 2016,House,3,2,2,,,Ray White - Whiteman & Associates
+273,6 Drosera Parkway,"$465,000",Apr 2016,House,4,2,2,,,Professionals Wellstead Team - Bassendean
+274,69 Kennedia Entrance,"$465,000",Apr 2016,House,3,2,2,$380pw,Oct 2020,AustAsia Real Estate - WEST PERTH
+275,19 Arneis Avenue,"$230,000",Apr 2016,House,3,2,2,$264pw,Aug 2017,
+276,4 Arneis Avenue,"$240,000",Apr 2016,House,3,2,2,$262pw,Sep 2021,
+277,158 Cranleigh Street,"$72,000",Apr 2016,House,4,2,2,$445pw,Apr 2016,
+278,6 Arneis Avenue,"$240,000",Mar 2016,House,3,2,2,$264pw,Jun 2017,
+279,3 ATTENUATA Way,"$490,000",Mar 2016,,,,,,,
+280,2 Arneis Avenue,"$240,000",Mar 2016,House,3,2,2,$231pw,Aug 2019,
+281,23 Olivina Parkway,"$378,500",Mar 2016,House,3,2,2,,,Martino Property Group
+282,49 Sunlit Avenue,"$265,000",Feb 2016,House,3,2,2,,,
+283,24 SUNLIT Avenue,"$215,000",Jan 2016,House,3,2,2,,,
+284,19 Lunata Street,"$360,000",Jan 2016,House,3,2,2,$350pw,Mar 2021,Bazzo Real Estate - Ballajura
+285,L58 Arthur Street,"$465,000",Jan 2016,House,4,2,2,,,HERITAGE REALTY - CANNING VALE
+286,L59 Arthur Street,"$465,000",Jan 2016,House,4,2,2,,,HERITAGE REALTY - CANNING VALE
+287,3 MONICA Crescent,"$288,000",Dec 2015,House,4,2,2,,,
+288,71 Kennedia Entrance,"$440,000",Dec 2015,House,3,2,2,,,David Evans Real Estate - Warwick
+289,41 St Leonards Boulevard,"$520,000",Dec 2015,House,3,2,2,,,LITTLE Real Estate Central - EAST PERTH
+290,69 Tramontane Approach,"$461,000",Nov 2015,House,3,2,2,,,Ray White - Landsdale
+291,19 Bovale Road,"$252,000",Nov 2015,House,4,2,2,$450pw,Sep 2021,
+292,7 GLOSS Street,"$212,000",Nov 2015,House,4,2,2,$320pw,Aug 2019,
+293,Lot 164 St Leonards Boulevard,"$612,580",Nov 2015,House,4,2,2,,,Ross North Homes - Mount Pleasant
+294,233 Arthur Street,"$225,000",Nov 2015,House,3,,,,,
+295,17 Saligna Way,"$505,000",Nov 2015,House,4,2,2,,,Ray White - Mt Lawley
+296,13 GLOSS Street,"$212,000",Oct 2015,House,4,2,2,$420pw,Jun 2021,
+297,27 GLOSS Street,"$210,000",Oct 2015,House,3,2,,,,
+298,6 Honey Lane,"$470,000",Oct 2015,House,4,2,2,,,HKY Real Estate - Head Office
+299,31 Calendia Way,"$480,000",Oct 2015,House,3,2,2,,,Homestead Realty - Highgate
