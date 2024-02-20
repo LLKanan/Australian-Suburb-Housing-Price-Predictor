@@ -1,10 +1,22 @@
 import requests
-import json
 import pandas as pd 
+import pgeocode
 from pathlib import Path
 from bs4 import BeautifulSoup
 import logging
 logger = logging.getLogger(__name__)
+
+#Get the state of the given postcode and suburb
+def getState(suburb,postcode):
+    logger.info('Getting state of suburb and postcode')
+    nomi = pgeocode.Nominatim('au')
+    result = nomi.query_postal_code(postcode)
+    for place in result['place_name'].split(', '):
+        if place == suburb:
+            logger.info('Found matching suburb and postcode')
+            return result['state_code']
+    logger.error('Unable to find matching suburb and postcode')
+    return None
 
 #Gets data from a single URL
 def getData(url):
@@ -21,33 +33,17 @@ def getData(url):
         logger.debug(err)
     return None
 
-#Validates URL
-#Checks we're querying speaking same & checks url for page
-def validateURL(url):
-    logger.info('Validating URL: ' + url)
-    if url.find('http://house.speakingsame.com/p.php?q=') != -1 and url.find('&p=') != -1:
-        logger.info('Valid URL')
-        return True
-    logger.info('Invalid URL')
-    return False
-
-#Generates list of apges
-def getPages(url):
-    logger.info('Getting pages from URL: ' + url)
-
+#generates the URLs for the given suburb and state
+def generateURLs(suburb,state):
+    logger.info('Generating URL for: ' + suburb + ',' + state)
     pages = []
-    startPageIndex = url.find('&p=') + 3
-    endPageIndex = startPageIndex
-    while url[endPageIndex].isdigit():
-        endPageIndex += 1
-
     for pageNumber in range(0,30,1):
-        pages.append(url[:startPageIndex] + str(pageNumber) + url[endPageIndex:])
-
+        pages.append('http://house.speakingsame.com/p.php?q=' + suburb.replace(' ','+') + '&p=' + str(pageNumber) + '&s=1&st=&type=&count=300&region=' + suburb + '&lat=0&lng=0&sta=' + state.lower() + '&htype=&agent=0&minprice=0&maxprice=0&minbed=0&maxbed=0&minland=0&maxland=0')
     return pages
 
+#processed the raw data into a format we can pass into a dataframe
 def processData(rawData):
-    logger.info('Processing raw data for a single page')
+    logger.info('Processing raw data')
     addresses = []
     propertyInfo = []
 
@@ -118,34 +114,42 @@ def processData(rawData):
     return listings
 
 
-#Scrapes data returns 1 if Successful, otherwise returns -1
-def scrapeData(url):
-    logger.info('Beginning data scraping process for URL: ' + url)
-    if validateURL(url) == False: 
-        logger.error('Invalid URL: ' + url)
+#Scrapes data for a particular suburb returns 1 if Successful, otherwise returns -1
+def scrapeData(suburb,postcode):
+    logger.info('Checking if suburb and postcode are valid')
+    state = getState(suburb,postcode)
+    if state == None:
+        logger.error('Unable to find state, terminating program')
         return -1
-    pages = getPages(url)
-    
-    #Get raw data from each page
-    rawData = []
+
+    logger.info('State Found: ' + str(state))
+    logger.info('Beginning data scraping process for: ' + suburb + ', ' + state + ', ' + postcode)
+
+    #Generate URLs to scrape given a suburb and state
+    pages = generateURLs(suburb,state)
+
+    #Get raw data from each page and process it
+    data = []
     for page in pages:
-        data = getData(page)
-        if data == None:
+        rawData = getData(page)
+        if rawData == None:
             logging.error('Terminating data scraper due to failure to retrieve data')
             return -1
-        rawData.append(data)
-
-    #Process raw data for each page
-    processedData = []
-    for page in rawData:
-        processedData += processData(page)
+        processedData = processData(rawData)
+        if processedData == []:
+            logging.info('No more pages that contain data avaialble, stopping data collection')
+            break
+        data += processedData
 
     #Save to CSV
-    dir = Path('./DataCollection/')
+    dir = Path('./DataCollection/Data/')
     try:
         dir.mkdir(mode=0o777,parents=True,exist_ok=False)
     except:
         logger.info('Directory already exists')
-    df = pd.DataFrame(processedData)
-    df.to_csv(str(dir) + '/scrapedData.csv')
+    df = pd.DataFrame(data)
+    df['State'] = state
+    df['Suburb'] = suburb
+    df['Postcode'] = postcode
+    df.to_csv(str(dir)+ '/' + postcode + ' - ' + suburb + '.csv',index=False)
     return 1
