@@ -33,3 +33,163 @@ INFO:DataCollection.houseSpeakingSameScraper:Processing raw data
 INFO:root:No more pages that contain data avaialble, stopping data collection
 INFO:root:Application has successfully scraped data
 INFO:root:Application finished
+INFO:root:Application started
+INFO:DataCollection.houseSpeakingSameScraper:Checking if suburb and postcode are valid
+INFO:DataCollection.houseSpeakingSameScraper:Getting state of suburb and postcode
+INFO:DataCollection.houseSpeakingSameScraper:Found matching suburb and postcode
+INFO:DataCollection.houseSpeakingSameScraper:State Found: WA
+INFO:DataCollection.houseSpeakingSameScraper:Beginning data scraping process for: Noranda, WA, 6062
+INFO:DataCollection.houseSpeakingSameScraper:Generating URL for: Noranda,WA
+INFO:DataCollection.houseSpeakingSameScraper:Scraping data from: http://house.speakingsame.com/p.php?q=Noranda&p=0&s=1&st=&type=&count=300&region=Noranda&lat=0&lng=0&sta=wa&htype=&agent=0&minprice=0&maxprice=0&minbed=0&maxbed=0&minland=0&maxland=0
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): house.speakingsame.com:80
+DEBUG:urllib3.connectionpool:http://house.speakingsame.com:80 "GET /p.php?q=Noranda&p=0&s=1&st=&type=&count=300&region=Noranda&lat=0&lng=0&sta=wa&htype=&agent=0&minprice=0&maxprice=0&minbed=0&maxbed=0&minland=0&maxland=0 HTTP/1.1" 200 7873
+INFO:DataCollection.houseSpeakingSameScraper:Successfully received data
+INFO:DataCollection.houseSpeakingSameScraper:Processing raw data
+INFO:DataCollection.houseSpeakingSameScraper:Scraping data from: http://house.speakingsame.com/p.php?q=Noranda&p=1&s=1&st=&type=&count=300&region=Noranda&lat=0&lng=0&sta=wa&htype=&agent=0&minprice=0&maxprice=0&minbed=0&maxbed=0&minland=0&maxland=0
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): house.speakingsame.com:80
+DEBUG:urllib3.connectionpool:http://house.speakingsame.com:80 "GET /p.php?q=Noranda&p=1&s=1&st=&type=&count=300&region=Noranda&lat=0&lng=0&sta=wa&htype=&agent=0&minprice=0&maxprice=0&minbed=0&maxbed=0&minland=0&maxland=0 HTTP/1.1" 200 7998
+INFO:DataCollection.houseSpeakingSameScraper:Successfully received data
+INFO:DataCollection.houseSpeakingSameScraper:Processing raw data
+INFO:DataCollection.houseSpeakingSameScraper:Scraping data from: http://house.speakingsame.com/p.php?q=Noranda&p=2&s=1&st=&type=&count=300&region=Noranda&lat=0&lng=0&sta=wa&htype=&agent=0&minprice=0&maxprice=0&minbed=0&maxbed=0&minland=0&maxland=0
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): house.speakingsame.com:80
+DEBUG:urllib3.connectionpool:http://house.speakingsame.com:80 "GET /p.php?q=Noranda&p=2&s=1&st=&type=&count=300&region=Noranda&lat=0&lng=0&sta=wa&htype=&agent=0&minprice=0&maxprice=0&minbed=0&maxbed=0&minland=0&maxland=0 HTTP/1.1" 200 None
+INFO:DataCollection.houseSpeakingSameScraper:Successfully received data
+INFO:DataCollection.houseSpeakingSameScraper:Processing raw data
+INFO:DataCollection.houseSpeakingSameScraper:Scraping data from: http://house.speakingsame.com/p.php?q=Noranda&p=3&s=1&st=&type=&count=300&region=Noranda&lat=0&lng=0&sta=wa&htype=&agent=0&minprice=0&maxprice=0&minbed=0&maxbed=0&minland=0&maxland=0
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): house.speakingsame.com:80
+DEBUG:urllib3.connectionpool:http://house.speakingsame.com:80 "GET /p.php?q=Noranda&p=3&s=1&st=&type=&count=300&region=Noranda&lat=0&lng=0&sta=wa&htype=&agent=0&minprice=0&maxprice=0&minbed=0&maxbed=0&minland=0&maxland=0 HTTP/1.1" 200 7848
+INFO:DataCollection.houseSpeakingSameScraper:Successfully received data
+INFO:DataCollection.houseSpeakingSameScraper:Processing raw data
+INFO:DataCollection.houseSpeakingSameScraper:Scraping data from: http://house.speakingsame.com/p.php?q=Noranda&p=4&s=1&st=&type=&count=300&region=Noranda&lat=0&lng=0&sta=wa&htype=&agent=0&minprice=0&maxprice=0&minbed=0&maxbed=0&minland=0&maxland=0
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): house.speakingsame.com:80
+DEBUG:urllib3.connectionpool:http://house.speakingsame.com:80 "GET /p.php?q=Noranda&p=4&s=1&st=&type=&count=300&region=Noranda&lat=0&lng=0&sta=wa&htype=&agent=0&minprice=0&maxprice=0&minbed=0&maxbed=0&minland=0&maxland=0 HTTP/1.1" 200 None
+INFO:DataCollection.houseSpeakingSameScraper:Successfully received data
+INFO:DataCollection.houseSpeakingSameScraper:Processing raw data
+INFO:DataCollection.houseSpeakingSameScraper:Scraping data from: http://house.speakingsame.com/p.php?q=Noranda&p=5&s=1&st=&type=&count=300&region=Noranda&lat=0&lng=0&sta=wa&htype=&agent=0&minprice=0&maxprice=0&minbed=0&maxbed=0&minland=0&maxland=0
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): house.speakingsame.com:80
+DEBUG:urllib3.connectionpool:http://house.speakingsame.com:80 "GET /p.php?q=Noranda&p=5&s=1&st=&type=&count=300&region=Noranda&lat=0&lng=0&sta=wa&htype=&agent=0&minprice=0&maxprice=0&minbed=0&maxbed=0&minland=0&maxland=0 HTTP/1.1" 200 None
+INFO:DataCollection.houseSpeakingSameScraper:Successfully received data
+INFO:DataCollection.houseSpeakingSameScraper:Processing raw data
+INFO:DataCollection.houseSpeakingSameScraper:Scraping data from: http://house.speakingsame.com/p.php?q=Noranda&p=6&s=1&st=&type=&count=300&region=Noranda&lat=0&lng=0&sta=wa&htype=&agent=0&minprice=0&maxprice=0&minbed=0&maxbed=0&minland=0&maxland=0
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): house.speakingsame.com:80
+DEBUG:urllib3.connectionpool:http://house.speakingsame.com:80 "GET /p.php?q=Noranda&p=6&s=1&st=&type=&count=300&region=Noranda&lat=0&lng=0&sta=wa&htype=&agent=0&minprice=0&maxprice=0&minbed=0&maxbed=0&minland=0&maxland=0 HTTP/1.1" 200 None
+INFO:DataCollection.houseSpeakingSameScraper:Successfully received data
+INFO:DataCollection.houseSpeakingSameScraper:Processing raw data
+INFO:DataCollection.houseSpeakingSameScraper:Scraping data from: http://house.speakingsame.com/p.php?q=Noranda&p=7&s=1&st=&type=&count=300&region=Noranda&lat=0&lng=0&sta=wa&htype=&agent=0&minprice=0&maxprice=0&minbed=0&maxbed=0&minland=0&maxland=0
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): house.speakingsame.com:80
+DEBUG:urllib3.connectionpool:http://house.speakingsame.com:80 "GET /p.php?q=Noranda&p=7&s=1&st=&type=&count=300&region=Noranda&lat=0&lng=0&sta=wa&htype=&agent=0&minprice=0&maxprice=0&minbed=0&maxbed=0&minland=0&maxland=0 HTTP/1.1" 200 None
+INFO:DataCollection.houseSpeakingSameScraper:Successfully received data
+INFO:DataCollection.houseSpeakingSameScraper:Processing raw data
+INFO:DataCollection.houseSpeakingSameScraper:Scraping data from: http://house.speakingsame.com/p.php?q=Noranda&p=8&s=1&st=&type=&count=300&region=Noranda&lat=0&lng=0&sta=wa&htype=&agent=0&minprice=0&maxprice=0&minbed=0&maxbed=0&minland=0&maxland=0
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): house.speakingsame.com:80
+DEBUG:urllib3.connectionpool:http://house.speakingsame.com:80 "GET /p.php?q=Noranda&p=8&s=1&st=&type=&count=300&region=Noranda&lat=0&lng=0&sta=wa&htype=&agent=0&minprice=0&maxprice=0&minbed=0&maxbed=0&minland=0&maxland=0 HTTP/1.1" 200 None
+INFO:DataCollection.houseSpeakingSameScraper:Successfully received data
+INFO:DataCollection.houseSpeakingSameScraper:Processing raw data
+INFO:DataCollection.houseSpeakingSameScraper:Scraping data from: http://house.speakingsame.com/p.php?q=Noranda&p=9&s=1&st=&type=&count=300&region=Noranda&lat=0&lng=0&sta=wa&htype=&agent=0&minprice=0&maxprice=0&minbed=0&maxbed=0&minland=0&maxland=0
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): house.speakingsame.com:80
+DEBUG:urllib3.connectionpool:http://house.speakingsame.com:80 "GET /p.php?q=Noranda&p=9&s=1&st=&type=&count=300&region=Noranda&lat=0&lng=0&sta=wa&htype=&agent=0&minprice=0&maxprice=0&minbed=0&maxbed=0&minland=0&maxland=0 HTTP/1.1" 200 None
+INFO:DataCollection.houseSpeakingSameScraper:Successfully received data
+INFO:DataCollection.houseSpeakingSameScraper:Processing raw data
+INFO:DataCollection.houseSpeakingSameScraper:Scraping data from: http://house.speakingsame.com/p.php?q=Noranda&p=10&s=1&st=&type=&count=300&region=Noranda&lat=0&lng=0&sta=wa&htype=&agent=0&minprice=0&maxprice=0&minbed=0&maxbed=0&minland=0&maxland=0
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): house.speakingsame.com:80
+DEBUG:urllib3.connectionpool:http://house.speakingsame.com:80 "GET /p.php?q=Noranda&p=10&s=1&st=&type=&count=300&region=Noranda&lat=0&lng=0&sta=wa&htype=&agent=0&minprice=0&maxprice=0&minbed=0&maxbed=0&minland=0&maxland=0 HTTP/1.1" 200 None
+INFO:DataCollection.houseSpeakingSameScraper:Successfully received data
+INFO:DataCollection.houseSpeakingSameScraper:Processing raw data
+INFO:DataCollection.houseSpeakingSameScraper:Scraping data from: http://house.speakingsame.com/p.php?q=Noranda&p=11&s=1&st=&type=&count=300&region=Noranda&lat=0&lng=0&sta=wa&htype=&agent=0&minprice=0&maxprice=0&minbed=0&maxbed=0&minland=0&maxland=0
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): house.speakingsame.com:80
+DEBUG:urllib3.connectionpool:http://house.speakingsame.com:80 "GET /p.php?q=Noranda&p=11&s=1&st=&type=&count=300&region=Noranda&lat=0&lng=0&sta=wa&htype=&agent=0&minprice=0&maxprice=0&minbed=0&maxbed=0&minland=0&maxland=0 HTTP/1.1" 200 None
+INFO:DataCollection.houseSpeakingSameScraper:Successfully received data
+INFO:DataCollection.houseSpeakingSameScraper:Processing raw data
+INFO:DataCollection.houseSpeakingSameScraper:Scraping data from: http://house.speakingsame.com/p.php?q=Noranda&p=12&s=1&st=&type=&count=300&region=Noranda&lat=0&lng=0&sta=wa&htype=&agent=0&minprice=0&maxprice=0&minbed=0&maxbed=0&minland=0&maxland=0
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): house.speakingsame.com:80
+DEBUG:urllib3.connectionpool:http://house.speakingsame.com:80 "GET /p.php?q=Noranda&p=12&s=1&st=&type=&count=300&region=Noranda&lat=0&lng=0&sta=wa&htype=&agent=0&minprice=0&maxprice=0&minbed=0&maxbed=0&minland=0&maxland=0 HTTP/1.1" 200 None
+INFO:DataCollection.houseSpeakingSameScraper:Successfully received data
+INFO:DataCollection.houseSpeakingSameScraper:Processing raw data
+INFO:DataCollection.houseSpeakingSameScraper:Scraping data from: http://house.speakingsame.com/p.php?q=Noranda&p=13&s=1&st=&type=&count=300&region=Noranda&lat=0&lng=0&sta=wa&htype=&agent=0&minprice=0&maxprice=0&minbed=0&maxbed=0&minland=0&maxland=0
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): house.speakingsame.com:80
+DEBUG:urllib3.connectionpool:http://house.speakingsame.com:80 "GET /p.php?q=Noranda&p=13&s=1&st=&type=&count=300&region=Noranda&lat=0&lng=0&sta=wa&htype=&agent=0&minprice=0&maxprice=0&minbed=0&maxbed=0&minland=0&maxland=0 HTTP/1.1" 200 None
+INFO:DataCollection.houseSpeakingSameScraper:Successfully received data
+INFO:DataCollection.houseSpeakingSameScraper:Processing raw data
+INFO:DataCollection.houseSpeakingSameScraper:Scraping data from: http://house.speakingsame.com/p.php?q=Noranda&p=14&s=1&st=&type=&count=300&region=Noranda&lat=0&lng=0&sta=wa&htype=&agent=0&minprice=0&maxprice=0&minbed=0&maxbed=0&minland=0&maxland=0
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): house.speakingsame.com:80
+DEBUG:urllib3.connectionpool:http://house.speakingsame.com:80 "GET /p.php?q=Noranda&p=14&s=1&st=&type=&count=300&region=Noranda&lat=0&lng=0&sta=wa&htype=&agent=0&minprice=0&maxprice=0&minbed=0&maxbed=0&minland=0&maxland=0 HTTP/1.1" 200 None
+INFO:DataCollection.houseSpeakingSameScraper:Successfully received data
+INFO:DataCollection.houseSpeakingSameScraper:Processing raw data
+INFO:DataCollection.houseSpeakingSameScraper:Scraping data from: http://house.speakingsame.com/p.php?q=Noranda&p=15&s=1&st=&type=&count=300&region=Noranda&lat=0&lng=0&sta=wa&htype=&agent=0&minprice=0&maxprice=0&minbed=0&maxbed=0&minland=0&maxland=0
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): house.speakingsame.com:80
+DEBUG:urllib3.connectionpool:http://house.speakingsame.com:80 "GET /p.php?q=Noranda&p=15&s=1&st=&type=&count=300&region=Noranda&lat=0&lng=0&sta=wa&htype=&agent=0&minprice=0&maxprice=0&minbed=0&maxbed=0&minland=0&maxland=0 HTTP/1.1" 200 None
+INFO:DataCollection.houseSpeakingSameScraper:Successfully received data
+INFO:DataCollection.houseSpeakingSameScraper:Processing raw data
+INFO:DataCollection.houseSpeakingSameScraper:Scraping data from: http://house.speakingsame.com/p.php?q=Noranda&p=16&s=1&st=&type=&count=300&region=Noranda&lat=0&lng=0&sta=wa&htype=&agent=0&minprice=0&maxprice=0&minbed=0&maxbed=0&minland=0&maxland=0
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): house.speakingsame.com:80
+DEBUG:urllib3.connectionpool:http://house.speakingsame.com:80 "GET /p.php?q=Noranda&p=16&s=1&st=&type=&count=300&region=Noranda&lat=0&lng=0&sta=wa&htype=&agent=0&minprice=0&maxprice=0&minbed=0&maxbed=0&minland=0&maxland=0 HTTP/1.1" 200 None
+INFO:DataCollection.houseSpeakingSameScraper:Successfully received data
+INFO:DataCollection.houseSpeakingSameScraper:Processing raw data
+INFO:DataCollection.houseSpeakingSameScraper:Scraping data from: http://house.speakingsame.com/p.php?q=Noranda&p=17&s=1&st=&type=&count=300&region=Noranda&lat=0&lng=0&sta=wa&htype=&agent=0&minprice=0&maxprice=0&minbed=0&maxbed=0&minland=0&maxland=0
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): house.speakingsame.com:80
+DEBUG:urllib3.connectionpool:http://house.speakingsame.com:80 "GET /p.php?q=Noranda&p=17&s=1&st=&type=&count=300&region=Noranda&lat=0&lng=0&sta=wa&htype=&agent=0&minprice=0&maxprice=0&minbed=0&maxbed=0&minland=0&maxland=0 HTTP/1.1" 200 None
+INFO:DataCollection.houseSpeakingSameScraper:Successfully received data
+INFO:DataCollection.houseSpeakingSameScraper:Processing raw data
+INFO:DataCollection.houseSpeakingSameScraper:Scraping data from: http://house.speakingsame.com/p.php?q=Noranda&p=18&s=1&st=&type=&count=300&region=Noranda&lat=0&lng=0&sta=wa&htype=&agent=0&minprice=0&maxprice=0&minbed=0&maxbed=0&minland=0&maxland=0
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): house.speakingsame.com:80
+DEBUG:urllib3.connectionpool:http://house.speakingsame.com:80 "GET /p.php?q=Noranda&p=18&s=1&st=&type=&count=300&region=Noranda&lat=0&lng=0&sta=wa&htype=&agent=0&minprice=0&maxprice=0&minbed=0&maxbed=0&minland=0&maxland=0 HTTP/1.1" 200 None
+INFO:DataCollection.houseSpeakingSameScraper:Successfully received data
+INFO:DataCollection.houseSpeakingSameScraper:Processing raw data
+INFO:DataCollection.houseSpeakingSameScraper:Scraping data from: http://house.speakingsame.com/p.php?q=Noranda&p=19&s=1&st=&type=&count=300&region=Noranda&lat=0&lng=0&sta=wa&htype=&agent=0&minprice=0&maxprice=0&minbed=0&maxbed=0&minland=0&maxland=0
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): house.speakingsame.com:80
+DEBUG:urllib3.connectionpool:http://house.speakingsame.com:80 "GET /p.php?q=Noranda&p=19&s=1&st=&type=&count=300&region=Noranda&lat=0&lng=0&sta=wa&htype=&agent=0&minprice=0&maxprice=0&minbed=0&maxbed=0&minland=0&maxland=0 HTTP/1.1" 200 None
+INFO:DataCollection.houseSpeakingSameScraper:Successfully received data
+INFO:DataCollection.houseSpeakingSameScraper:Processing raw data
+INFO:DataCollection.houseSpeakingSameScraper:Scraping data from: http://house.speakingsame.com/p.php?q=Noranda&p=20&s=1&st=&type=&count=300&region=Noranda&lat=0&lng=0&sta=wa&htype=&agent=0&minprice=0&maxprice=0&minbed=0&maxbed=0&minland=0&maxland=0
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): house.speakingsame.com:80
+DEBUG:urllib3.connectionpool:http://house.speakingsame.com:80 "GET /p.php?q=Noranda&p=20&s=1&st=&type=&count=300&region=Noranda&lat=0&lng=0&sta=wa&htype=&agent=0&minprice=0&maxprice=0&minbed=0&maxbed=0&minland=0&maxland=0 HTTP/1.1" 200 None
+INFO:DataCollection.houseSpeakingSameScraper:Successfully received data
+INFO:DataCollection.houseSpeakingSameScraper:Processing raw data
+INFO:DataCollection.houseSpeakingSameScraper:Scraping data from: http://house.speakingsame.com/p.php?q=Noranda&p=21&s=1&st=&type=&count=300&region=Noranda&lat=0&lng=0&sta=wa&htype=&agent=0&minprice=0&maxprice=0&minbed=0&maxbed=0&minland=0&maxland=0
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): house.speakingsame.com:80
+DEBUG:urllib3.connectionpool:http://house.speakingsame.com:80 "GET /p.php?q=Noranda&p=21&s=1&st=&type=&count=300&region=Noranda&lat=0&lng=0&sta=wa&htype=&agent=0&minprice=0&maxprice=0&minbed=0&maxbed=0&minland=0&maxland=0 HTTP/1.1" 200 None
+INFO:DataCollection.houseSpeakingSameScraper:Successfully received data
+INFO:DataCollection.houseSpeakingSameScraper:Processing raw data
+INFO:DataCollection.houseSpeakingSameScraper:Scraping data from: http://house.speakingsame.com/p.php?q=Noranda&p=22&s=1&st=&type=&count=300&region=Noranda&lat=0&lng=0&sta=wa&htype=&agent=0&minprice=0&maxprice=0&minbed=0&maxbed=0&minland=0&maxland=0
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): house.speakingsame.com:80
+DEBUG:urllib3.connectionpool:http://house.speakingsame.com:80 "GET /p.php?q=Noranda&p=22&s=1&st=&type=&count=300&region=Noranda&lat=0&lng=0&sta=wa&htype=&agent=0&minprice=0&maxprice=0&minbed=0&maxbed=0&minland=0&maxland=0 HTTP/1.1" 200 None
+INFO:DataCollection.houseSpeakingSameScraper:Successfully received data
+INFO:DataCollection.houseSpeakingSameScraper:Processing raw data
+INFO:DataCollection.houseSpeakingSameScraper:Scraping data from: http://house.speakingsame.com/p.php?q=Noranda&p=23&s=1&st=&type=&count=300&region=Noranda&lat=0&lng=0&sta=wa&htype=&agent=0&minprice=0&maxprice=0&minbed=0&maxbed=0&minland=0&maxland=0
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): house.speakingsame.com:80
+DEBUG:urllib3.connectionpool:http://house.speakingsame.com:80 "GET /p.php?q=Noranda&p=23&s=1&st=&type=&count=300&region=Noranda&lat=0&lng=0&sta=wa&htype=&agent=0&minprice=0&maxprice=0&minbed=0&maxbed=0&minland=0&maxland=0 HTTP/1.1" 200 None
+INFO:DataCollection.houseSpeakingSameScraper:Successfully received data
+INFO:DataCollection.houseSpeakingSameScraper:Processing raw data
+INFO:DataCollection.houseSpeakingSameScraper:Scraping data from: http://house.speakingsame.com/p.php?q=Noranda&p=24&s=1&st=&type=&count=300&region=Noranda&lat=0&lng=0&sta=wa&htype=&agent=0&minprice=0&maxprice=0&minbed=0&maxbed=0&minland=0&maxland=0
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): house.speakingsame.com:80
+DEBUG:urllib3.connectionpool:http://house.speakingsame.com:80 "GET /p.php?q=Noranda&p=24&s=1&st=&type=&count=300&region=Noranda&lat=0&lng=0&sta=wa&htype=&agent=0&minprice=0&maxprice=0&minbed=0&maxbed=0&minland=0&maxland=0 HTTP/1.1" 200 7893
+INFO:DataCollection.houseSpeakingSameScraper:Successfully received data
+INFO:DataCollection.houseSpeakingSameScraper:Processing raw data
+INFO:DataCollection.houseSpeakingSameScraper:Scraping data from: http://house.speakingsame.com/p.php?q=Noranda&p=25&s=1&st=&type=&count=300&region=Noranda&lat=0&lng=0&sta=wa&htype=&agent=0&minprice=0&maxprice=0&minbed=0&maxbed=0&minland=0&maxland=0
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): house.speakingsame.com:80
+DEBUG:urllib3.connectionpool:http://house.speakingsame.com:80 "GET /p.php?q=Noranda&p=25&s=1&st=&type=&count=300&region=Noranda&lat=0&lng=0&sta=wa&htype=&agent=0&minprice=0&maxprice=0&minbed=0&maxbed=0&minland=0&maxland=0 HTTP/1.1" 200 None
+INFO:DataCollection.houseSpeakingSameScraper:Successfully received data
+INFO:DataCollection.houseSpeakingSameScraper:Processing raw data
+INFO:DataCollection.houseSpeakingSameScraper:Scraping data from: http://house.speakingsame.com/p.php?q=Noranda&p=26&s=1&st=&type=&count=300&region=Noranda&lat=0&lng=0&sta=wa&htype=&agent=0&minprice=0&maxprice=0&minbed=0&maxbed=0&minland=0&maxland=0
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): house.speakingsame.com:80
+DEBUG:urllib3.connectionpool:http://house.speakingsame.com:80 "GET /p.php?q=Noranda&p=26&s=1&st=&type=&count=300&region=Noranda&lat=0&lng=0&sta=wa&htype=&agent=0&minprice=0&maxprice=0&minbed=0&maxbed=0&minland=0&maxland=0 HTTP/1.1" 200 7789
+INFO:DataCollection.houseSpeakingSameScraper:Successfully received data
+INFO:DataCollection.houseSpeakingSameScraper:Processing raw data
+INFO:DataCollection.houseSpeakingSameScraper:Scraping data from: http://house.speakingsame.com/p.php?q=Noranda&p=27&s=1&st=&type=&count=300&region=Noranda&lat=0&lng=0&sta=wa&htype=&agent=0&minprice=0&maxprice=0&minbed=0&maxbed=0&minland=0&maxland=0
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): house.speakingsame.com:80
+DEBUG:urllib3.connectionpool:http://house.speakingsame.com:80 "GET /p.php?q=Noranda&p=27&s=1&st=&type=&count=300&region=Noranda&lat=0&lng=0&sta=wa&htype=&agent=0&minprice=0&maxprice=0&minbed=0&maxbed=0&minland=0&maxland=0 HTTP/1.1" 200 7861
+INFO:DataCollection.houseSpeakingSameScraper:Successfully received data
+INFO:DataCollection.houseSpeakingSameScraper:Processing raw data
+INFO:DataCollection.houseSpeakingSameScraper:Scraping data from: http://house.speakingsame.com/p.php?q=Noranda&p=28&s=1&st=&type=&count=300&region=Noranda&lat=0&lng=0&sta=wa&htype=&agent=0&minprice=0&maxprice=0&minbed=0&maxbed=0&minland=0&maxland=0
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): house.speakingsame.com:80
+DEBUG:urllib3.connectionpool:http://house.speakingsame.com:80 "GET /p.php?q=Noranda&p=28&s=1&st=&type=&count=300&region=Noranda&lat=0&lng=0&sta=wa&htype=&agent=0&minprice=0&maxprice=0&minbed=0&maxbed=0&minland=0&maxland=0 HTTP/1.1" 200 7677
+INFO:DataCollection.houseSpeakingSameScraper:Successfully received data
+INFO:DataCollection.houseSpeakingSameScraper:Processing raw data
+INFO:DataCollection.houseSpeakingSameScraper:Scraping data from: http://house.speakingsame.com/p.php?q=Noranda&p=29&s=1&st=&type=&count=300&region=Noranda&lat=0&lng=0&sta=wa&htype=&agent=0&minprice=0&maxprice=0&minbed=0&maxbed=0&minland=0&maxland=0
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): house.speakingsame.com:80
+DEBUG:urllib3.connectionpool:http://house.speakingsame.com:80 "GET /p.php?q=Noranda&p=29&s=1&st=&type=&count=300&region=Noranda&lat=0&lng=0&sta=wa&htype=&agent=0&minprice=0&maxprice=0&minbed=0&maxbed=0&minland=0&maxland=0 HTTP/1.1" 200 None
+INFO:DataCollection.houseSpeakingSameScraper:Successfully received data
+INFO:DataCollection.houseSpeakingSameScraper:Processing raw data
+INFO:DataCollection.houseSpeakingSameScraper:Directory already exists
+INFO:root:Application has successfully scraped data
+INFO:root:Application finished

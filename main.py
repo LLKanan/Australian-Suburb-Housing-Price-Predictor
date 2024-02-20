@@ -4,8 +4,8 @@ import logging
 def main():
     logging.basicConfig(filename='PerthHousingEstimator.log', level = logging.DEBUG)
     logging.info('Application started')
-    suburb = 'Moore Park'
-    postcode = '1363'
+    suburb = input('Enter Suburb: ')
+    postcode = input('Enter Postcode: ')
     if scrapeData(suburb,postcode) == -1:
         logging.debug('Application has failed to scrape data, now terminating')
         return None

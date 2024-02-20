@@ -13,5 +13,4 @@ def addLocation(csvFilePath):
     df = pd.read_csv(csvFilePath)
     lat = []
     long []
-    for address in df["Address"]
 
